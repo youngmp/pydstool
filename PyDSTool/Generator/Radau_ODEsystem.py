@@ -16,7 +16,7 @@ from PyDSTool.integrator import integrator
 import numpy as npy
 
 # Other imports
-from numpy import Inf, NaN, isfinite, int, int32, float, float64, \
+from numpy import Inf, NaN, isfinite, int32, float64, \
     sometrue, alltrue, any, all, concatenate, transpose, array, zeros
 import operator
 from copy import copy, deepcopy

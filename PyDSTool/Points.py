@@ -21,8 +21,8 @@ from numpy import Inf, NaN, isfinite, array2string, r_, c_, \
     less, greater, linalg, shape, array, argsort, savetxt, \
     take, zeros, transpose, resize, indices, concatenate, isscalar
 
-from numpy import complex, complexfloating, int, integer, \
-     float, floating, float64, complex128, int32
+from numpy import complexfloating, integer, \
+     floating, float64, complex128, int32
 from numpy import any, all, alltrue, sometrue, ndarray
 import numpy as npy
 
